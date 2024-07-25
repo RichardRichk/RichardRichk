@@ -27,11 +27,13 @@
 
 **Linguagens e Frameworks:**
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net" width="40" height="40" /></a>
+<a href="https://www.java.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40" /></a>
+<a href="https://www.javascript.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40" /></a>
 
 **Sistemas Operacionais:**
 
