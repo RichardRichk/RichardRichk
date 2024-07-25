@@ -29,14 +29,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Estatísticas
-
-<div>
-<a href="https://github.com/RichardRichk">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xornotor&layout=compact&langs_count=8&theme=cobalt"/>
-</div>
-
-
 <!--
 **RichardRichk/RichardRichk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
