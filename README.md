@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=1000&color=6100d6&random=false&width=600&height=80&lines=Ol%C3%A1%2C+Me+chamo+Richard!;Seja+bem+vindo(a)+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&duration=2000&pause=1000&color=6100d6&random=false&width=600&height=80&lines=Ol%C3%A1%2C+Me+chamo+Richard!;Seja+bem+vindo(a)+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" />
 
 [![Github](https://img.shields.io/github/followers/RichardRichk?label=Follow&style=social)](https://github.com/RichardRichk)
 ![](https://komarev.com/ghpvc/?username=RichardRichk&color=6100d6&style=flat&label=Visualizações)
