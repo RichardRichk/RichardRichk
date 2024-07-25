@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4500&size=28&center=true&vCenter=true&width=1000&typing-duration=10&lines=Olá,+seja+bem-vindo(a)!%20)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6100d6&size=28&center=true&vCenter=true&width=1000&typing-duration=10&lines=Olá,+seja+bem-vindo(a)!%20)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/RichardRichk?label=Follow&style=social)](https://github.com/RichardRichk)
 ![](https://komarev.com/ghpvc/?username=RichardRichk)
