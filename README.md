@@ -18,30 +18,32 @@
 
 **🔧 TOOLS:**
 
-<a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" /></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-<a href="https://github.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SqlServer" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40" /></a>
-<a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
+<a href="https://github.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-plain.svg" alt="Cypress" width="40" height="40" /></a>
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40" /></a>
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" /></a>
-<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" /></a>
+<a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="40" height="40" /></a>
 
 **🚀 STACKS:**
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
+<a href="" target="_blank"><img alt="SQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
-<a href="https://dotnet.microsoft.com/pt-br/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net" width="40" height="40" /></a>
 <a href="https://www.java.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40" /></a>
 <a href="https://www.javascript.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" /></a>
-<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40" /></a>
-<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net" width="40" height="40" /></a>
 <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" /></a>
-<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
 <a href="" target="_blank"><img alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40" /></a>
 
 ###
 
