@@ -5,13 +5,11 @@
 ```diff
 @@I'm a lover of technology and art@@
 
-+ Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
-- 22 years old (that's what they say...)
-! NodeJS and React programmer and always studying some technology
-# Interested in JavaScript, WebAssembly, Rust stuff and how cookies are made
++ Living in São Paulo, Brazil 🇧🇷
+! Full Stack Developer and always studying some technology
 ```
 
-### 🛠 **My Tools:**
+###
 
 <!--
 **RichardRichk/RichardRichk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
