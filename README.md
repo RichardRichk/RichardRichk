@@ -2,6 +2,8 @@
 [![Github](https://img.shields.io/github/followers/RichardRichk?label=Follow&style=social)](https://github.com/RichardRichk)
 ![](https://komarev.com/ghpvc/?username=RichardRichk)
 
+<img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
+
 ### **🧐 About:**
 
 ```diff
