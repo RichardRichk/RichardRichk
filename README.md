@@ -2,12 +2,12 @@
 [![Github](https://img.shields.io/github/followers/RichardRichk?label=Follow&style=social)](https://github.com/RichardRichk)
 ![](https://komarev.com/ghpvc/?username=RichardRichk)
 
-<img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
+<!-- <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" /> !-->
 
 ### **🧐 About:**
 
 ```diff
-@@I'm a lover of technology and art@@
+@@ I'm a developer who knows everything... IF I have time and internet @@
 
 + Living in São Paulo, Brazil 🇧🇷
 ! Full Stack Developer and always studying some technology
