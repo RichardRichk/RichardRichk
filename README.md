@@ -37,11 +37,6 @@
 <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40" /></a>
 <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" /></a>
 
-**Sistemas Operacionais:**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
 ###
 
 ## Stats
