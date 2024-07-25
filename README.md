@@ -24,7 +24,8 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40" /></a>
 <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-<a href="https://www.figma.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-plain.svg" alt="Figma" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-plain.svg" alt="Cypress" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40" /></a>
 
 **🚀 STACKS:**
 
