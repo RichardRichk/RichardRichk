@@ -32,6 +32,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+###
+
+## Stats
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardRichk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RichardRichk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RichardRichk&theme=github)
