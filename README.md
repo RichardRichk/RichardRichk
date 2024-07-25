@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Github](https://img.shields.io/github/followers/RichardRichk?label=Follow&style=social)](https://github.com/RichardRichk)
+![](https://komarev.com/ghpvc/?username=RichardRichk)
 
 ### **🧐 About:**
 
@@ -34,10 +35,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardRichk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RichardRichk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RichardRichk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RichardRichk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RichardRichk&theme=github)
-
-![](https://komarev.com/ghpvc/?username=RichardRichk)
 
 <!--
 **RichardRichk/RichardRichk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
