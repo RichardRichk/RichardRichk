@@ -48,7 +48,7 @@
 
 ###
 
-##🌎 Stats
+##💻 Stats
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardRichk&theme=github)
@@ -58,7 +58,7 @@
 
 ###
 
-## Contact
+##🌎 Contact
 
 <a href="mailto:richardfpassarelli@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/richard-passarelli-4a24b8233/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
