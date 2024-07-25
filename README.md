@@ -10,7 +10,7 @@
 @@ I'm a developer who knows everything... IF I have time and internet @@
 
 + Living in São Paulo, Brazil 🇧🇷
-! Full Stack Developer and always studying some technology
+! Full Stack Developer
 ```
 
 ###
