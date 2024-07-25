@@ -5,7 +5,7 @@
 
 <!-- <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" /> !-->
 
-### **🧐 About:**
+### **🧐 ABOUT:**
 
 ```diff
 @@ I'm a developer who knows everything... IF I have time and internet @@
@@ -16,7 +16,7 @@
 
 ###
 
-**🔧 Tools:**
+**🔧 TOOLS:**
 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" /></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
@@ -25,7 +25,7 @@
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40" /></a>
 <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
 
-**🚀 Stacks:**
+**🚀 STACKS:**
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
@@ -38,7 +38,7 @@
 
 ###
 
-**🎓 Certifications**
+**🎓 CERTIFICATIONS**
 <div>
   
 <img width="10%" height="10%"  src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
@@ -48,7 +48,7 @@
 
 ###
 
-**💻 Stats**
+**💻 STATS**
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardRichk&theme=github)
@@ -58,7 +58,7 @@
 
 ###
 
-**🌎 Contact**
+**🌎 CONTACT**
 
 <a href="mailto:richardfpassarelli@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/richard-passarelli-4a24b8233/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
