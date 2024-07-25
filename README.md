@@ -1,9 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6100d6&size=28&center=true&vCenter=true&width=1000&typing-duration=10&lines=Olá,+eu+sou+o+Richard;seja+bem+vindo(a)!%20)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6100d6&size=28&center=true&vCenter=true&width=1000&typing-duration=10&lines=Olá,+eu+sou+o+Richard;seja+bem+vindo(a)!%20)](https://git.io/typing-svg) 
 
 [![Github](https://img.shields.io/github/followers/RichardRichk?label=Follow&style=social)](https://github.com/RichardRichk)
 ![](https://komarev.com/ghpvc/?username=RichardRichk&color=6100d6&style=flat&label=Visualizações)
 
-<!-- <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" /> !-->
+<img align="center" height="25%" width="25%" gap="100" src="https://media1.tenor.com/m/jkVHg20f6-oAAAAC/dragon-ball-z-pushups.gif"/>
 
 ### **🧐 ABOUT:**
 
@@ -71,6 +71,10 @@
 
 <a href="mailto:richardfpassarelli@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/richard-passarelli-4a24b8233/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
+
+###
+
+<img align="center" src="https://media.tenor.com/o6xbmp-nZKUAAAAi/crashed-goku.gif"/>
 
 <!--
 **RichardRichk/RichardRichk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
