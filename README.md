@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Github](https://img.shields.io/github/followers/RichardRichk?label=Follow&style=social)](https://github.com/RichardRichk)
 
 ### **🧐 About:**
 
