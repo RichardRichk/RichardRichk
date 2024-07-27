@@ -73,6 +73,7 @@
 <a href="https://www.linkedin.com/in/richard-passarelli-4a24b8233/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
 ###
+###
 
 <img align="center" src="https://media.tenor.com/o6xbmp-nZKUAAAAi/crashed-goku.gif"/>
 
