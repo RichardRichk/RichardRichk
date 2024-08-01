@@ -5,7 +5,7 @@
 
 <img align="center" height="25%" width="25%" gap="100" src="https://media1.tenor.com/m/jkVHg20f6-oAAAAC/dragon-ball-z-pushups.gif"/>
 
-### **🧐 ABOUT:**
+## **🧐 ABOUT:**
 
 ```diff
 @@ I'm a developer who knows everything... IF I have time and internet @@
@@ -16,7 +16,7 @@
 
 ###
 
-**🔧 TOOLS:**
+## **🔧 TOOLS:**
 
 <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SqlServer" width="40" height="40" /></a>
@@ -31,7 +31,7 @@
 <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
 <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="40" height="40" /></a>
 
-**🚀 STACKS:**
+## **🚀 STACKS:**
 
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
 <a href="" target="_blank"><img alt="SQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg"></a>
@@ -47,7 +47,7 @@
 
 ###
 
-**🎓 CERTIFICATIONS:**
+## **🎓 CERTIFICATIONS:**
 <div>
   
 <img width="10%" height="10%"  src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
@@ -57,7 +57,7 @@
 
 ###
 
-**📈 STATS:**
+## **📈 STATS:**
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardRichk&theme=github)
@@ -67,20 +67,22 @@
 
 ###
 
-**🌎 CONTACT:**
+## **🌎 CONTACT:**
 
 <a href="mailto:richardfpassarelli@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/richard-passarelli-4a24b8233/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
 ###
 
-**💻 PORTFOLIO**
+## **💻 PORTFOLIO**
 
 Check out my projects and more details about my work on my personal portfolio: [Portfolio Dev](https://richardrichk.github.io/Richard_Port/)
 
 ###
 
-<img align="center" src="https://media.tenor.com/o6xbmp-nZKUAAAAi/crashed-goku.gif"/>
+ <img align="center" src="https://media.tenor.com/o6xbmp-nZKUAAAAi/crashed-goku.gif"/>
+
+###
 
 <!--
 **RichardRichk/RichardRichk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
